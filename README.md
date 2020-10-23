@@ -1,1 +1,1 @@
-# Predicci-n-de-valores-num-ricos-mediante-regresi-n
+# Prediccion-de-valores-nummericos-mediante-regresion
